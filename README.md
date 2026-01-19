@@ -23,4 +23,3 @@ A full-stack web application built with the **MERN stack (MongoDB, Express.js, R
 
 ---
 
-## 📂 Project Structure
