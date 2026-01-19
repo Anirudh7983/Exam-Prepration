@@ -1,0 +1,16 @@
+# 📚 Exam-Prep
+
+A web application built with the **MERN stack (MongoDB, Express.js, React, Node.js)** to help students prepare for exams more effectively.  
+
+## 🚀 Features
+- 📝 Create, edit, and manage exam questions  
+- 📊 Track progress and performance  
+- 🔐 Secure authentication with JWT  
+- 🌐 Responsive UI built with React + TailwindCSS  
+- ⚡ Fast and scalable backend with Node.js & Express  
+
+## 🛠 Tech Stack
+- **Frontend:** React.js, Redux, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Other Tools:** Git, GitHub, REST APIs, JWT Authentication  
